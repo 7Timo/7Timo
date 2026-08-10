@@ -2,8 +2,6 @@
 
 🚀 **Full-Stack Developer | Software Engineering Enthusiast**
 
-I'm a passionate developer focusing on building clean, efficient, and object-oriented solutions. I enjoy tackling complex problems, designing robust databases, and constantly leveling up my skills.
-
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -16,15 +14,6 @@ I'm a passionate developer focusing on building clean, efficient, and object-ori
 ### 📚 Current Journey
 * 🔭 Currently expanding my Full-Stack capabilities through the **DEPI program**.
 * 🌱 Deep diving into **Object-Oriented Programming (OOP)**, **Software Engineering principles**, and **Database Management**.
-* 🏆 Earned a Digital Achievement Badge in **Oracle AI**.
-
-### 💻 Featured Projects
-* **Personal Budgeting Software:** Collaborated with a team of four to build a comprehensive budgeting application.
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7Timo&show_icons=true&theme=radical" alt="Timour's GitHub stats" />
-</p>
 
 ### 📫 Let's Connect!
 <p align="left">
