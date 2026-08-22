@@ -1,4 +1,4 @@
-# Hi there, I'm Timour Fayez! 👋
+# Hi there, I'm Timour Fayez 👋
 
 🚀 **Full-Stack Developer | Software Engineering Enthusiast**
 
